@@ -10,3 +10,6 @@ Datenbankzugriff zu bekommen. Letztendlich haben wir versucht, einige Fragen ang
 die beim Lernen über objektrelationale Datenbankmanagementsysteme auftreten können.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/riturajsingh2015/OBJEKTRELATIONALE-DATENBANKEN/main?filepath=PostgreSQLWithJava.ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/riturajsingh2015/OBJEKTRELATIONALE-DATENBANKEN/main?filepath=PostgreSQLWithJava.ipynb
