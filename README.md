@@ -9,8 +9,8 @@ Code implementiert. Daher haben wir versucht, eine kleine Beispielanwendung mit 
 Datenbankzugriff zu bekommen. Letztendlich haben wir versucht, einige Fragen angemessen zu beantworten
 die beim Lernen über objektrelationale Datenbankmanagementsysteme auftreten können.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Friturajsingh2015%2FOBJEKTRELATIONALE-DATENBANKEN%2Fmain/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/riturajsingh2015/OBJEKTRELATIONALE-DATENBANKEN/main)
 
 <br>
 
-Shareable Link : https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Friturajsingh2015%2FOBJEKTRELATIONALE-DATENBANKEN%2Fmain/main
+Shareable Link : https://mybinder.org/v2/gh/riturajsingh2015/OBJEKTRELATIONALE-DATENBANKEN/main
