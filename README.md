@@ -11,5 +11,6 @@ die beim Lernen über objektrelationale Datenbankmanagementsysteme auftreten kö
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/riturajsingh2015/OBJEKTRELATIONALE-DATENBANKEN/main?filepath=PostgreSQLWithJava.ipynb)
 
-.. image:: https://mybinder.org/badge_logo.svg
+.. image:: https://mybinder.org/badge_logo.svg 
+<br>
  :target: https://mybinder.org/v2/gh/riturajsingh2015/OBJEKTRELATIONALE-DATENBANKEN/main?filepath=PostgreSQLWithJava.ipynb
